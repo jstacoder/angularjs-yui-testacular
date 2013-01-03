@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="Chrome 21.0 (Linux)" package="undefined" timestamp="2013-01-03T06:04:08" id="0" hostname="debian6" tests="1" errors="0" failures="0" time="0">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.79 Safari/537.1"/>
+    </properties>
+    <testcase name="should exist" time="0" classname="Chrome 21.0 (Linux).home-ctrl init"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>

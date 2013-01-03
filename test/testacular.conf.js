@@ -16,10 +16,10 @@ files = [
   ,MOCHA_ADAPTER
   ,'http://yui.yahooapis.com/3.7.3/build/yui/yui-min.js'
   ,'./test/main.js'
-  ,{pattern: './app/js/**/*.js', included: false}
+  ,{pattern: './app/**/*.js', included: false}
   ,{pattern: './test/specs/**/*.js', included: false}
   // test js libs
-  ,{pattern: './test/lib/**/*.js', included: false}
+  ,{pattern: './test/libs/**/*.js', included: false}
 ];
 
 // list of files to exclude
