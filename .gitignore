@@ -1,3 +1,5 @@
+node_modules
+.monitor
 lib-cov
 *.seed
 *.log
